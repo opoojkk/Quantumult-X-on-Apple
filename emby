@@ -84,3 +84,9 @@ DOMAIN,jmsooo.com
 DOMAIN,cf.jmsooo.com
 DOMAIN,hk.jmsooo.com
 DOMAIN,sg.jmsooo.com
+
+# > tag机场新风味服务器
+DOMAIN-SUFFIX,lianmeng.com
+
+# > misakaf服务器
+DOMAIN-SUFFIX,misakaf.com
